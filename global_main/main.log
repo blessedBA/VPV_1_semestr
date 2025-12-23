@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.21)  20 DEC 2025 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.21)  20 DEC 2025 19:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,28 +448,79 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 29--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--53
+
+ []
+
+
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./main.aux)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
+<images/grph_zatuh_koleb.png, id=11, 1013.7875pt x 762.85pt>
+File: images/grph_zatuh_koleb.png Graphic file (type png)
+<use images/grph_zatuh_koleb.png>
+Package pdftex.def Info: images/grph_zatuh_koleb.png  used on input line 130.
+(pdftex.def)             Requested size: 348.54475pt x 262.26396pt.
+
+
+[2]
+
+[3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./images/grph_zatuh_koleb.png>]
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 191.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 191.
+
+Missing character: There is no ò in font cmr8!
+Missing character: There is no ð in font cmr8!
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 193.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 193.
+
+Missing character: There is no ò in font cmr8!
+Missing character: There is no ð in font cmr8!
+
+
+[4]
+
+[5] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5085 strings out of 473190
- 77927 string characters out of 5715799
- 472680 words of memory out of 5000000
- 28302 multiletter control sequences out of 15000+600000
- 565775 words of font info for 53 fonts, out of 8000000 for 9000
+ 5134 strings out of 473190
+ 78781 string characters out of 5715799
+ 480680 words of memory out of 5000000
+ 28339 multiletter control sequences out of 15000+600000
+ 572966 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,285b,217s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (1 page, 26963 bytes).
+ 57i,6n,65p,398b,241s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (5 pages, 292363 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
